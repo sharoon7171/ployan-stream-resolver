@@ -1,0 +1,11 @@
+{
+  "name": "ployan-stream-resolver",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/server/index.js"
+  }
+}
